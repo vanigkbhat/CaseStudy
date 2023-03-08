@@ -1,1 +1,3 @@
 Welcome to Edurekha DevOps Continuous Testing Course
+
+First week session was good
